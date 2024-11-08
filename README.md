@@ -1,3 +1,4 @@
+
 # AIML-2024-25
 
 #Assignment-01(https://github.com/2303A51923/AIML-2024-25/blob/main/Assignment1.ipynb)
@@ -17,3 +18,5 @@
 #Assignment-08(https://github.com/2303A51923/AIML-2024-25/blob/main/Assignment_08.ipynb)
 
 #Assignment-09(https://github.com/2303A51923/AIML-2024-25/blob/main/Assignment_09.ipynb)
+
+#Assignment-10(https://github.com/2303A51923/AIML-2024-25/blob/main/Assignment_10.ipynb)
